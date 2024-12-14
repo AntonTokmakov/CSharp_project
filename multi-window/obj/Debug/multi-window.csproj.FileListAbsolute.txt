@@ -1,0 +1,11 @@
+G:\VisualStudioDisk\multi-window\multi-window\obj\Debug\multi-window.csproj.AssemblyReference.cache
+G:\VisualStudioDisk\multi-window\multi-window\obj\Debug\multi_window.City_F.resources
+G:\VisualStudioDisk\multi-window\multi-window\obj\Debug\multi_window.Main_F.resources
+G:\VisualStudioDisk\multi-window\multi-window\obj\Debug\multi_window.Properties.Resources.resources
+G:\VisualStudioDisk\multi-window\multi-window\obj\Debug\multi-window.csproj.GenerateResource.cache
+G:\VisualStudioDisk\multi-window\multi-window\obj\Debug\multi-window.csproj.CoreCompileInputs.cache
+G:\VisualStudioDisk\multi-window\multi-window\bin\Debug\multi-window.exe.config
+G:\VisualStudioDisk\multi-window\multi-window\bin\Debug\multi-window.exe
+G:\VisualStudioDisk\multi-window\multi-window\bin\Debug\multi-window.pdb
+G:\VisualStudioDisk\multi-window\multi-window\obj\Debug\multi-window.exe
+G:\VisualStudioDisk\multi-window\multi-window\obj\Debug\multi-window.pdb
